@@ -521,7 +521,6 @@ li {
 .footer-social {
   display: flex;
   flex-direction: column;
-  margin-right: 93px;
 }
 
 .footer-social-title {
@@ -563,6 +562,7 @@ li {
 .footer-reg {
   display: flex;
   flex-direction: column;
+  margin-left: auto;
 }
 .reg-title {
   font-weight: 700;
@@ -904,6 +904,7 @@ li {
 .modal-form-check-field {
   display: flex;
   align-items: center;
+  justify-content: center;
   margin-bottom: 30px;
 }
 
